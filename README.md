@@ -15,6 +15,9 @@ Xcode 9 and Swift 4 was used to build this application.
 Screen Recorder
 (Gif)
 
+![audio](https://user-images.githubusercontent.com/15246084/41511214-1a2e337e-7290-11e8-926c-2df2ed7a7385.gif)
+
 Audio Recorder
 (Gif)
 
+![screenrecord](https://user-images.githubusercontent.com/15246084/41511234-95f170f2-7290-11e8-8f9f-3d77b292b27c.gif)
