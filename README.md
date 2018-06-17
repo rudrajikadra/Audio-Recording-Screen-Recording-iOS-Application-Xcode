@@ -1,6 +1,6 @@
 # Audio-Recording-Screen-Recording-iOS-Application-Xcode
 It is has two subparts, first one is simple audio recorder and saved in local storage and second one is screen recorder of youtube videos.
-You have to select any one when the app begins.
+You have to select any one when the app begins. The audio recording is standard using AVFoundation and the screen recording is using the Apple's new Replay Kit.
 
 ## Features
 * You can record audio via microphone and it stores in local storage of the iOS device.
