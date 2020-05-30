@@ -56,7 +56,7 @@ class ViewController2: UIViewController {
         let height: CGFloat = width * 9 / 15
         
         //the video is already muted with (&mute=1)
-        videoView.loadHTMLString("<iframe id=\"vidid\" width=\"\(width - 15)\" height=\"\(height - 15)\" src=\"\(finalLink)?&playsinline=1&rel=0&controls=0&autohide=1&showinfo=0\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>", baseURL: nil)
+        videoView.loadHTMLString("<iframe id=\"vidid\" width=\"\(width - 15)\" height=\"\(height - 15)\" src=\"\(finalLink)?&playsinline=1&rel=0&controls=0&autohide=1&mute=1&showinfo=0\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>", baseURL: nil)
         
        
     }
